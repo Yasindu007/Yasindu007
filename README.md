@@ -51,6 +51,7 @@ I love designing systems that are **fast, resilient, observable, and production�
 
 ### 🚗 **Vehicle Import Platform**  
 **Next.js • FastAPI • PostgreSQL • Supabase • Redis**
+Live: https://cleardrive.lk/
 
 - Auction browsing, landing cost calculator, KYC uploads  
 - OTP + JWT auth, finance workflows, shipment tracking  
@@ -61,6 +62,7 @@ I love designing systems that are **fast, resilient, observable, and production�
 
 ### 🤖 **Job Tracker AI**  
 **Next.js • React • Tailwind • Ollama / LM Studio**
+Live: https://job-tracker-ai.netlify.app
 
 - AI‑powered resume optimization  
 - Mock interview generator  
