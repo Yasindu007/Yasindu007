@@ -1,112 +1,109 @@
-# Hey there 👋 I’m Yasindu Malith De Silva
+# Hey, I'm Yasindu Malith De Silva 👋  
+**Cloud‑Native Backend Engineer | DevOps & SRE Enthusiast | Go + Kubernetes**
 
-**Software Engineer | Full‑Stack Developer | AI Builder**
+I build **scalable backend systems**, **cloud‑native microservices**, and **DevOps‑driven infrastructure** with a strong focus on performance, reliability, and clean architecture.  
+My work spans **Go services, Kubernetes deployments, API gateways, Terraform IaC, CI/CD pipelines, and AI‑powered applications**.
 
-I build **production-ready web applications** and **AI-powered tools** that solve real problems.  
-My work focuses on **full-stack systems, clean APIs, scalable backends, and LLM integrations**—with an emphasis on maintainability, performance, and developer experience.
-
-- Building: **AI-assisted products, dashboards, and automation workflows**
-- Interests: **LLM apps, FastAPI, DevOps, microservices concepts**
-- Currently exploring: **LLM app architecture + deployment, modern CI/CD**
+I love designing systems that are **fast, resilient, observable, and production‑ready**.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Core Focus Areas
 
-**Frontend**  
-React • Next.js • TypeScript • JavaScript • HTML5 • CSS3  
-Tailwind CSS • Material UI
+### 🏗️ Cloud‑Native Engineering  
+- Go microservices (clean architecture, ports & adapters)  
+- Kubernetes (autoscaling, rolling updates, PDBs, metrics-driven scaling)  
+- Terraform (IaC for clusters, networking, secrets, storage)  
+- API gateways (WSO2 API Manager, OAuth2, throttling, mediation sequences)
 
-**Backend**  
-Go (Golang) • Python • REST APIs  
-Auth systems • Microservices concepts
+### ⚙️ DevOps & SRE  
+- Dockerized workloads  
+- GitHub Actions CI/CD  
+- Redis caching (cluster mode, negative cache patterns)  
+- PostgreSQL read/write splitting  
+- Observability & performance tuning (P99 latency optimization)
 
-**AI / LLM**  
-Ollama • Hugging Face • LM Studio  
-LLM integrations • AI-assisted workflows
+### 🤖 AI & LLM Integrations  
+- Ollama • Hugging Face • LM Studio  
+- AI‑assisted workflows & automation  
+- Embedding‑based search & LLM‑powered features
 
-**Databases & Data**  
-PostgreSQL • Supabase • JSON  
-Python data processing • Excel
-
-**DevOps & Tools**  
-Docker • Git • GitHub • GitHub Actions  
-CI/CD • Automated testing
-
-**Productivity / Design**  
-Figma • Draw.io • Trello • Notion
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Job Tracker AI
-AI-powered job application tracker with resume optimization and interview preparation.
-
-**Tech:** Next.js • React • Ollama • Tailwind  
-**Highlights:**
-- AI resume suggestions and improvements
-- Mock interview preparation
-- Application tracking dashboard
+### 🧩 Full‑Stack Development  
+- Next.js • React • TypeScript  
+- REST APIs • Authentication (JWT, OTP)  
+- Supabase • PostgreSQL
 
 ---
 
-### 🚗 Vehicle Import Platform
-Full-stack platform for managing Japanese vehicle imports.
+## 🚀 Featured Engineering Projects
 
-**Tech:** Next.js • FastAPI • PostgreSQL • Supabase • Redis  
-**Highlights:**
-- Auction browsing experience
-- Landing cost calculator
-- KYC document upload
-- Shipment tracking
+### 🔗 **URL Shortener SaaS (Cloud‑Native, High‑Performance)**  
+**Go • Kubernetes • Redis • PostgreSQL • WSO2 API Manager • Terraform**
 
----
-
-### 🎬 Movie Explorer
-A dynamic movie browser built with React.
-
-**Tech:** React • TMDb API • Axios • Context API  
-**Highlights:**
-- Infinite scrolling
-- Movie filtering
-- Dark / light mode
-- Authentication
+- Clean architecture with multi‑tenant workspaces  
+- OAuth2 validation, throttling tiers, request mediation  
+- Redis cluster caching + negative cache → **P99 < 50ms**  
+- PostgreSQL read/write splitting + async analytics ingestion  
+- HPA autoscaling, PDBs, Sealed Secrets, GitOps‑safe infra  
+**Status:** Ongoing
 
 ---
 
-### 📚 Book Management REST API
-Backend REST API built in Go demonstrating concurrency patterns.
+### 🚗 **Vehicle Import Platform**  
+**Next.js • FastAPI • PostgreSQL • Supabase • Redis**
 
-**Tech:** Golang • JSON • Goroutines • REST APIs  
-**Highlights:**
-- CRUD operations
-- Keyword search
-- Concurrent request handling
-
----
-
-### 🌐 Portfolio Website
-My personal portfolio showcasing projects and experiments.
-
-**Live:** https://malith.is-a.dev  
-**Tech:** React • TypeScript • GraphQL • Jest • GitHub Actions
+- Auction browsing, landing cost calculator, KYC uploads  
+- OTP + JWT auth, finance workflows, shipment tracking  
+- SEO‑optimized frontend + scalable backend microservices  
+**Status:** Ongoing
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 **Job Tracker AI**  
+**Next.js • React • Tailwind • Ollama / LM Studio**
 
-![Malith’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasindu007&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasindu007&layout=compact&theme=tokyonight)
+- AI‑powered resume optimization  
+- Mock interview generator  
+- Application insights dashboard  
+
+---
+
+### 📚 **Book Management REST API**  
+**Go • JSON • Goroutines**
+
+- CRUD operations  
+- Keyword search  
+- Concurrent request handling  
+
+---
+
+### 🌐 **Portfolio Website**  
+**React • TypeScript • GraphQL • Jest • GitHub Actions**
+
+Live: https://malith.is-a.dev
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---------|--------------|
+| **Backend** | Go, Python, REST APIs, Microservices |
+| **Cloud & DevOps** | Kubernetes, Docker, Terraform, GitHub Actions |
+| **API Gateways** | WSO2 API Manager (OAuth2, throttling, mediation) |
+| **Databases** | PostgreSQL, Supabase, Redis |
+| **Frontend** | React, Next.js, TypeScript, Tailwind |
+| **AI / LLM** | Ollama, Hugging Face, LM Studio |
+| **Tools** | Git, Jira, Figma, Draw.io |
 
 ---
 
 ## 🎸 About Me
 
-- 🎓 Computer Science Undergraduate @ **IIT (University of Westminster)**
-- 🎸 Lead Acoustic Guitarist – **IIT Orchestra**
-- 🏃 Track & Field – **Relay Team**
-- 💡 Always learning and building
+- 🎓 Computer Science Undergraduate @ **IIT (University of Westminster)**  
+- 🎸 Lead Acoustic Guitarist – **IIT Orchestra**  
+- 🏃 Track & Field – Relay Team  
+- 💡 Passionate about cloud systems, DevOps, and AI‑powered engineering  
 
 ---
 
