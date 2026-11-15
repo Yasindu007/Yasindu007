@@ -139,7 +139,7 @@ Live: https://malith.is-a.dev
 
 - 💼 Site Reliability Engineer Intern @ **WSO2**  
 - 🎓 Computer Science Undergraduate @ **IIT (University of Westminster)**  
-- 🎸 Lead Acoustic Guitarist – **IIT Orchestra**  
+- 🎸 Lead Acoustic Guitarist – **TELFORD Orchestra**  
 - 🏃 Track & Field – Relay Team  
 - 💡 Passionate about cloud systems, DevOps, and AI‑powered engineering  
 
